@@ -12,7 +12,7 @@ GNU General Public License (GPLv2).
 The program has been tested and shall be running correctly under the compilation
 of a standard gcc GNU compiler.
 
-Running command example (under gcc compiler):
+Running command example:
 
 $gcc routingTableBasic.c -o routingTableBasic-v1.exe
 <br>
